@@ -99,7 +99,7 @@ export default function CandidateProfilePage() {
         ← Back to Recruitment
       </Link>
 
-      <h1 className="mb-6 mt-3 text-2xl font-bold text-gray-800">Candidate Profile</h1>
+      <h1 className="mb-6 mt-3 text-2xl font-bold text-gray-800">CandidaeE Profile</h1>
 
       <Alert type="error" message={loadError} />
       <Alert type="success" message={success} />
